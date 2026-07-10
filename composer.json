@@ -1,6 +1,5 @@
 {
     "name": "genai/container",
-    "version": "1.0.0",
     "description": "Minimal PSR-11 dependency-injection container, compatible with PHP 5.3.29",
     "type": "library",
     "license": "Apache-2.0",
